@@ -1,0 +1,12 @@
+{
+    "language": "pt_br",
+    "exchange_time_in_minutes": "7",
+    "expiration_payment_in_minutes": "60",
+    "token_bot": "6338869249:AAHq63ptTwsIEsJkQuK7FPIhAMht0tcTqXs",
+    "user_suporte": "@Venus7201",
+    "minimum_recharge": "10",
+    "footer_text": "*Bot by*: @Venus7201",
+    "donos": [
+        "5432319286"
+    ]
+}

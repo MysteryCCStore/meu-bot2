@@ -1,0 +1,13 @@
+{
+    "mp": {
+        "token": ""
+    },
+    "gn": {
+        "pix": "",
+        "client_id": "",
+        "client_secret": ""
+    },
+    "pix_key": "c7213455-b975-43b4-907a-d2defc5fd31e",
+    "pix_type": "Chave-aleatoria",
+    "pix_default": "Nubank"
+}
